@@ -1,3 +1,2 @@
 # odin-recipes
-# Project: Recipes
-# HTML Foundations
+This is the first exercise project in TOP. Project: Recipes.
